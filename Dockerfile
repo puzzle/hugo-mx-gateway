@@ -1,5 +1,7 @@
 FROM alpine:3.11.6
 
+# test
+
 ARG RUNTIME_USER="mxgateway"
 ARG RUNTIME_USER_UID=4583
 
